@@ -1,4 +1,4 @@
-![my foto](/img/IMG_6032)
+![my foto](https://github.com/LozovoyKirill/rezume/blob/main/img/IMG_6032.jpg)
 # Лозовой Кирилл Юрьевич         
 ### Дата рождения:      19 декабря 1982 года.
 ### Город проживания:   Санкт-Петербург.
